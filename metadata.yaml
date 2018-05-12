@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15536#The-Mirror-of-Literature-Amusement-and-Instruction--13-Volume-20-No.-579-December-8-1832
 gutenberg_bookshelf: The Mirror of Literature, Amusement, and Instruction
 gutenberg_issued: '2005-04-04'
 gutenberg_type: Text
